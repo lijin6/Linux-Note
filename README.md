@@ -1,4 +1,3 @@
-```markdown
 # 🐧 Linux-Note | 我的Linux学习与实践笔记
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/yourname/Linux-Note?style=flat-square)
