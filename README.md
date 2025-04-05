@@ -1,5 +1,3 @@
-以下是优化后的 `README.md` 设计，结合技术图标、表情符号和结构化内容，更适合作为技术学习笔记仓库的首页展示：
-
 ```markdown
 # 🐧 Linux-Note | 我的Linux学习与实践笔记
 
@@ -60,20 +58,14 @@ cat docker-cheatsheet.md | less
 ---
 
 ## 📌 近期更新
-- [2024-03-15] 新增 [FRP多协议穿透配置](notes/frp/advanced.md) 🆕
-- [2024-03-10] 更新 [K8s故障排查手册](notes/k8s/troubleshooting.md) ✨
-- [2024-03-05] 优化Docker Compose模板 🐋
-
+- [2025-04-05] 新增 [FRP多协议穿透配置](notes/frp/advanced.md) 🆕
 ---
-
 ## 🤝 参与贡献
 欢迎提交PR或Issue：
 1. 发现错误？请创建Issue 🐛
 2. 想添加内容？Fork后提交PR ✏️
 3. 按主题分类存放笔记 📂
-
 ---
-
 ## 📜 许可证
 MIT License | Copyright © 2024 YourName
 ```
